@@ -1,0 +1,15 @@
+.tweet {
+    background-color: rgb(207, 78, 78);
+    border: 2px solid rgb(73, 204, 61);
+    width: 50%;
+    text-align: center;
+    margin: 20px;
+}
+
+.text {
+    color: rgb(194, 179, 179);
+}
+
+.user {
+    color: rgb(34, 88, 138)
+}
